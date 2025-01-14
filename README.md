@@ -1,6 +1,6 @@
 # Network Theory with Application
 
-The goal of this class (Math 167 at UCLA) is to introduce networks as mathematical models for diverse real-world phenomena. We covered important mathematical definitions needed for this modeling, the statistical description of real and synthetic networks, construction of networks with desired statistics. The course culminates with a study of how network structure affects the spread of diseases.
+The goal of this class (Math 168 at UCLA during Winter 2024) is to introduce networks as mathematical models for diverse real-world phenomena. We covered important mathematical definitions needed for this modeling, the statistical description of real and synthetic networks, construction of networks with desired statistics. The course culminates with a study of how network structure affects the spread of diseases.
 
 We built a team-based final project in the end: we focus on exploring music similarity in guitar songs using network theory. 
 
